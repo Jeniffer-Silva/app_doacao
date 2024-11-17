@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "app_doacao",
+    "slug": "app_doacao",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-sem-slogan.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/logo-com-slogan-carregando.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.app_doacao"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo-sem-slogan.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.app_doacao"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
