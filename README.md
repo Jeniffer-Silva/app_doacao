@@ -14,16 +14,25 @@
 ![Banner com a logo do aplicativo "Doa+" e um fundo em que uma mulher entrega uma caixa de roupas a serem doadas para outra mulher](https://github.com/user-attachments/assets/22aa60aa-1980-437c-98c6-5ad287b44b51)
 
 <!-- DESCRIÇÃO -->
-<div>
-  <h2>Sobre</h2>
-    <p>Aplicativo para controle de itens de doação. Esse sistema permite o devido gerenciamento desses itens, favorecendo as partes envolvidas direta ou indiretamente neste processo, visando maior confiabilidade dos dados referentes a esses itens.</p>
-    <p align="right">(<a href="#voltar-topo">Voltar ao topo</a>)</p>
-</div>
+<h2>Sobre</h2>
+  <p>Aplicativo para controle de itens de doação, permitindo o devido gerenciamento desses itens.</p>
+  
+  <p>Essa gestão automatizada favorece as partes envolvidas direta ou indiretamente no processo.</p>
+
+  <p>Visa maior confiabilidade dos dados referentes a esses itens, além de maior celeridade no processo de entrega de itens no estado adequado ao beneficiário.</p>
+  
+  <p align="right">(<a href="#voltar-topo">Voltar ao topo</a>)</p>
 
 <!-- CONSTRUÇÃO -->
+<h2>Tecnologias utilizadas</h2>
 <div>
-  <h2>Construído com</h2>
+  <img src="https://img.shields.io/badge/Expo-grey?style=for-the-badge&logo=expo"
+</div>
+<div>
     <img src="https://img.shields.io/badge/React%20Native-grey?style=for-the-badge&logo=react" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript" />
 </div>
 <div>
     <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript" />
@@ -32,9 +41,9 @@
     <img src="https://img.shields.io/badge/JSON-grey?style=for-the-badge&logo=json" />
 </div>
 <div>
-    <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite" />
 </div>
-<div><p align="right">(<a href="#voltar-topo">Voltar ao topo</a>)</p></div>
+  <p align="right">(<a href="#voltar-topo">Voltar ao topo</a>)</p>
 
 <!-- PRÉ REQUISITOS -->
 <div>
